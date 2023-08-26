@@ -12,7 +12,7 @@ def Addition():
 
 # printing values (No Changes)
 
-sum=Addition()
-print("Sum of {0} and {1} is {2}" .format(num1, num2, sum))
+#sum=Addition()
+#print("Sum of {0} and {1} is {2}" .format(num1, num2, sum))
 
 
